@@ -76,7 +76,7 @@ body{
 }
 /*-------------start landing---------------------*/
 .landing{
-    background: url("/img/hero-bg.jpg");
+    background: url("../img/hero-bg.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -189,7 +189,7 @@ body{
 /*---------------end services-----------------------------*/
 /*---------------start statistic-----------------------------*/
 .statistic{ 
-    background-image: url("/img/post-3.jpg");
+    background-image: url("../img/post-3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -278,7 +278,7 @@ body{
 /*---------------end portfolio-----------------------------*/
 /*----------------start team---------------------*/
 .team{
-    background-image: url("/img/overlay-bg.jpg");
+    background-image: url("../img/overlay-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -393,7 +393,7 @@ body{
 /*------------------end blog-----------*/
 /*------------------start contact-----------*/
 .contact{
-    background-image: url("/img/overlay-bg.jpg");
+    background-image: url("../img/overlay-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
